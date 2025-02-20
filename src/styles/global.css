@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --font-mono: 'Space Mono', monospace;
+
+    --color-background: oklch(23.31% 0.0192 314.43);
+    --color-foreground: oklch(85.37% 0.0853 313.38);
+}
